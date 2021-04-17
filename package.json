@@ -37,6 +37,7 @@
     "@types/node": "^12.11.1",
     "@typescript-eslint/eslint-plugin": "4.16.1",
     "@typescript-eslint/parser": "4.16.1",
+    "daisyui": "^0.15.4",
     "eslint": "^7.6.0",
     "eslint-plugin-import": "latest",
     "eslint-plugin-jsdoc": "latest",
